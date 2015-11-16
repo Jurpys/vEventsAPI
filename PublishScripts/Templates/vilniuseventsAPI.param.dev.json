@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "vEventsAPI"
+  },
+  "hostingPlanName": {
+    "value": "VilniusEventsAPI"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "e32454b4-ff34-4c20-92e9-764221e3d039"
+  },
+  "resourceGroup": {
+    "value": "Default"
+  }
+}
